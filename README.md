@@ -5,7 +5,7 @@
 เครื่องคิดเลข
 
 ## Installation
-1. Install pythin
+1. Install python
 2. execute python main.py
 
 ## note
