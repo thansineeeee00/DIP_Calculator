@@ -15,6 +15,8 @@
 3. Gitlens GitHistory GitGraph
 4. Clone Repo เข้ามาจาก github
 5. config --global user.name กับ user.email
+6. คลุม tk แล้ว ctrl+D พิมพ์หลายบรรทัดพร้อมกันได้
+7. แก้ใน dev เขียนเสร็จ commit ลง main
 
 ## Disclaimer
 for educational purpose only, run on your own risk
